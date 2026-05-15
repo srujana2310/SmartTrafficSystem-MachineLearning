@@ -1,4 +1,4 @@
-# SmartTraffic-MachineLearningModel
+# SmartTrafficSystem-MachineLearning
 
 A machine learning system for classifying real-time urban traffic conditions into four categories — **Heavy, High, Normal, and Low** — based on vehicle counts, time of day, and day of the week.
 
