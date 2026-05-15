@@ -39,7 +39,7 @@ Six classification algorithms were evaluated, with **Random Forest** selected as
 ## Results
 
 ### Model Comparison — Accuracy & F1 Score
-![Model Comparison](screenshots/model_comparison.png)
+![Model Comparison](model accuracy.png)
 
 ### Confusion Matrix — Random Forest (Final Model)
 ![Confusion Matrix](screenshots/confusion_matrix_rf.png)
