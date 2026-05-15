@@ -42,7 +42,7 @@ Six classification algorithms were evaluated, with **Random Forest** selected as
 ![Model Comparison](modelaccuracy.png)
 
 ### Confusion Matrix — Random Forest (Final Model)
-![Confusion Matrix](screenshots/confusion_matrix_rf.png)
+![Confusion Matrix](finalmodel.png)
 
 ---
 
